@@ -1,0 +1,26 @@
+body {
+	background-image: url(images/white-dress-2.jpg);
+	background-size: contain,cover;
+	background-repeat: no-repeat;
+}	
+h1 {
+	font-weight: bold;
+	font-size: 55px;
+	font-family: arial, sans-serif;
+	text-transform: underline;
+	text-align: center;
+	color: rgb(0,0,0);
+}
+hr {
+	width: 550px;
+}
+.whitecolor {
+	color: white;
+}
+h2 {
+	font-weight: normal;
+	font-size: 24px;
+	font-family: arial, sans-serif;
+	text-decoration: none;
+	text-align: center;
+}
