@@ -1,7 +1,7 @@
 
 body {
-	background-image: url(images/xxwhite-dress.jpg);
-	background-image: cover;
+	background-image: url(images/xxwhite-dress.JPG);
+	background-size: cover;
 	background-repeat: no-repeat;
 	font-family:
 	text-decoration-color: 
@@ -25,9 +25,9 @@ h1 {
 li {
 	text-align: center;
 	font-family: barlow;
-	color: rgb(000,255,000);
+	color: rgb(0,255,0);
 	font-weight: bold;
-	font-size: 18px;
+	font-size: 28px;
 }
 
 
@@ -45,7 +45,7 @@ p {
 	font-family: georgia, sans-serif;
 	font-size: 1.5em;
 	line-height: 38px;
-	color: rgb(232,211,18);
+	color: rgb(30,12,255);
 	}
 
 p {
