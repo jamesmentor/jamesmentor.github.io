@@ -59,6 +59,7 @@ p {
 
 #wrapper {
 	background-color: white;
+	margin: 2em;
 }
 
 #content {
@@ -148,9 +149,8 @@ h5 {
 	color: white;
 	border-color: black;
 	border-radius: 1em 1em;
-	padding: 10 .8em;
-	margin: 1em 5em;
-	border: 10em;
+	padding: 1em 8em;
+	margin: 2em 5em 2em 5em;
 	clear: both;
 }
 footer {
@@ -166,8 +166,8 @@ footer {
 	color: white;
 	border-color: black;
 	border-radius: .8em .8em;
-	padding: 0 .8em;
-	margin: .1em 5em;
+	padding: 2em .8em;
+	margin: 2em 5em;
 }
 
 
