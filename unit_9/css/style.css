@@ -1,0 +1,188 @@
+
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+body {
+	font-family: "Roboto";
+	background-image: url("images/backround.JPG");
+	background-size: cover;
+}
+
+nav {
+	background-color: rgb(0,0,0);
+	font-family: arial, sans-serif;
+	font-size: 1.5em;
+}
+
+a {
+	color: white;
+	text-decoration: none;
+	display: inline-block;
+	padding: 10px;
+	width: 200px;
+}
+
+a:hover {
+	/*background-color: white;*/
+	color: yellow;
+	clear: both;
+}
+
+
+h1 {
+	font-weight: bold;
+	font-size: 55px;
+	font-family: Roboto, serif;
+	text-transform: underline;
+	text-align: center;
+	color: white;
+}
+#title {
+	font-family: Roboto, serif;
+	color: black;
+}
+
+h2 {
+	font-weight: normal;
+	font-size: 24px;
+	font-family: "Roboto" , sans-serif;
+	text-decoration: none;
+	text-align: center;
+	font-style: italic;
+	color: white;
+}
+
+.mission {
+	color: rgb(30,12,255);
+	width: auto;
+	text-align: center;
+	background-color: white;
+	padding: 1em;
+	margin: 0;
+	line-height: 1em;
+	font-size: 2.5em;
+	
+	
+}
+
+.main {
+	background-color: white;
+	display: inline;
+	padding-bottom: 0;
+}
+
+h3 {
+	text-align: center;
+	font-size: 45px;
+	line-height: 40px;
+	color: rgb(255,255,255);
+}
+
+li {
+	list-style-type: none;
+	color: black;
+	text-align: center;
+	/*color: rgb(25,74,74,.8);*/
+	font-size: 2em;
+	padding: 0;
+	/*background-size: auto;*/
+}
+
+#article {
+	float: left;
+	font-size: .9em;
+	background-color: rgb(25,74,74,.8);
+	padding: .5%;
+	width: 50%;
+	clear:all;
+}
+
+
+h4 {
+	color: white;
+	font-size: 45px;
+	text-align: center;
+	line-height: 3%;
+	/*color: rgb(25,74,74,.8);*/
+}
+
+aside {
+	float: right;
+	background-color: black;
+	color: rgb(25,74,74,.8);
+}
+
+hr {
+ 	width: auto;
+ 	padding: 0;
+ 	margin: 0;
+}
+
+#packages {
+	align-content: center;
+}
+
+
+h5 {
+	text-align: center;
+	display: inline-block;
+	font-size: 29px;
+	background: rgb(25,74,74,.8);
+	color: white;
+	border-color: rgb(25,74,74,.8);
+	/*border-radius: 1em 1em;*/
+	padding: 1em 8em;
+	margin-left: 0;
+	margin-right: 25%;
+	margin-bottom: none;
+	clear: both;
+}
+
+/*Update this to open up compose window with email address attached*/
+
+footer {
+	color: white;
+	text-align: center;
+	padding: 15em;
+	margin: 5em 0em;
+	background-color: black;
+	margin-bottom: 0;
+}
+
+#email {
+	margin-left: 25%;
+	margin-right: 25%;
+}	
+
+ol {
+	/*font-size: 1.5em;*/
+	background-color: rgba(0,0,0,.6);
+	text-align: left;
+	padding: 2em;
+	margin-right: 25%;
+	margin-top: none;
+}
+
+ol > li {
+	list-style: normal;
+	color: white;
+	text-align: left;
+	padding: 1em;
+}
+
+ol > li:hover {
+	color: yellow;
+}
+
+@media only screen and (max-width: 420px) {
+	#article {
+		float: none;
+	}
+	#main {
+		display: inline-block;
+	}
+	h5 {
+		align-content: left;
+	}
+}
+
+
