@@ -4,12 +4,20 @@
 		"selected_items":
 		[
 			[
-				"Tex",
-				"text-align\tproperty"
+				"list",
+				"list-style\tproperty"
+			],
+			[
+				"alig",
+				"align-content\tproperty"
 			],
 			[
 				"background",
-				"background-color\tproperty"
+				"background-size\tproperty"
+			],
+			[
+				"Tex",
+				"text-align\tproperty"
 			],
 			[
 				"background-c",
@@ -68,21 +76,19 @@
 	"buffers":
 	[
 		{
-			"contents": "<!DOCTYPE html>\n\n<html>\n\n\n\t<head>\n\t\t<title>CMCG Consulting Group</title>\n\t\t<!-- <link rel=\"stylesheet\" type=\"text/css\" href=\"css/reset.css\"> -->\n\t\t<link rel=\"stylesheet\" type=\"text/css\" href=\"css/style.css\">\n\n\t</head>\n\n\t<body>\n\t\t\t<header>\n\t\t\t\t<nav>\n\t\t\t\t\t<a href=\"about.html\">About</a>\n\t\t\t\t\t<a href=\"blog.html\">Blog</a>\n\t\t\t\t\t<a href=\"Home.html\">Home</a>\n\t\t\t\t\t<a href=\"contact.html\">Contact Us</a>\n\t\t\t\t</nav>\n\t\t\t</header>\n\t\t\n\t\t<h1 id=\"title\">CMCG Consulting Group</h1>\n\t\t\n\t\t<h2>Use Less, Get More.</h2>\n\t\t\t\n\t\t\t<div id=\"mission\">\n\t\t\t<p>CMCG aims to collaborate with energy industry stakeholders and help them thrive in a rapidly\n\t\t\t\tchanging energy environment by ensuring that our clients recieve critical information and forwardlooking\n\t\t\t\tsolutions related to <strong>Regulatory</strong>,<strong>Strategy</strong>, and <strong>Market Intelligence</strong>.\n\t\t\t</p>\n\t\t\t</div>\n\n\t\t\t<main id=\"main\">\n\t\t\t\t<div id=\"wrapper\">\n\t\t\t\t\t<div id=\"content\">\n\t\t\t\t\t\t<h3>What We Do Best</h3>\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\t\t<li>Research & Analysis</li>\n\t\t\t\t\t\t\t\t<li>Monitoring & Reporting</li>\n\t\t\t\t\t\t\t\t<li>Strategy Consuslting</li>\n\t\t\t\t\t\t\t\t<li>Risk & Compliance</li>\n\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t<aside>\t\t\t\n\t\t\t\t\t\t<h4>How we can help</h4>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t\t\t<li>Industry Expertise</li>\n\t\t\t\t\t\t\t\t\t\t<li>Advanced Analysis</li>\n\t\t\t\t\t\t\t\t\t\t<li>Customized Solutions</li>\n\t\t\t\t\t\t\t\t\t\t<li>Innovative Approach</li>\n\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t</aside>\n\t\t\t\t</div>\n\t\t\t</main>\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t<div>\n\t\t\t\t\t\t\t<h5>Packages & Pricing Structure</h5>\n\t\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t\t<li id =\"packages\">Bi-Weekly Regulatory Report (Non-utility) - $500 Monthly Subscription</li>\n\t\t\t\t\t\t\t\t\t<li id=\"packages\">Bi-Weekly Regulatory Report (Utility) - $600 MOnthly Subscription</li>\n\t\t\t\t\t\t\t\t\t<li id =\"packages\">Special Projects - Starting at $750</li>\n\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t</div>\n\n\t\t\t<p id=\"cta\">So, how can we help you?</p>\n\n\t\t\t\t \n\t\t\t\t\t<footer id=\"footer\">\n\t\t\t\t\t\t<a href=\"https://mail.google.com\">cassmcfadden@gmail.com</a>\n\t\t\t\t\t</footer>\n\n</body>\n\n</html>",
-			"file": "index.html",
-			"file_size": 2132,
-			"file_write_time": 131793726407791914,
+			"file": "/C/Users/jment/OneDrive/Documents/GitHub/jamesmentor.github.io/unit_8/index.html",
 			"settings":
 			{
-				"buffer_size": 1987,
+				"buffer_size": 2503,
+				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "css/style.css",
+			"file": "/C/Users/jment/OneDrive/Documents/GitHub/jamesmentor.github.io/unit_8/css/style.css",
 			"settings":
 			{
-				"buffer_size": 2412,
+				"buffer_size": 2618,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -120,6 +126,11 @@
 	},
 	"file_history":
 	[
+		"/C/Users/jment/OneDrive/Documents/GitHub/jamesmentor.github.io/unit_8/css/style.css",
+		"/C/Users/jment/OneDrive/Documents/GitHub/jamesmentor.github.io/unit_8/index.html",
+		"/C/Users/jment/OneDrive/Documents/GitHub/jamesmentor.github.io/unit_8/style.css",
+		"/C/Users/jment/OneDrive/Documents/GitHub/jamesmentor.github.io/unit_7/style.css",
+		"/C/Users/jment/OneDrive/Documents/GitHub/jamesmentor.github.io/unit_7/index.html",
 		"/C/Users/jment/OneDrive/Documents/GitHub/jamesmentor.github.io/unit_4/css/style.css",
 		"/C/Users/jment/OneDrive/Documents/GitHub/jamesmentor.github.io/unit_4/index.html",
 		"/C/Users/jment/OneDrive/Documents/GitHub/jamesmentor.github.io/unit_4/style.css",
@@ -171,19 +182,19 @@
 			[
 				{
 					"buffer": 0,
-					"file": "index.html",
+					"file": "/C/Users/jment/OneDrive/Documents/GitHub/jamesmentor.github.io/unit_8/index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1987,
+						"buffer_size": 2503,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1452,
-								1452
+								2275,
+								2275
 							]
 						],
 						"settings":
@@ -192,7 +203,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 1057.0,
+						"translation.y": 864.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -200,19 +211,19 @@
 				},
 				{
 					"buffer": 1,
-					"file": "css/style.css",
+					"file": "/C/Users/jment/OneDrive/Documents/GitHub/jamesmentor.github.io/unit_8/css/style.css",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2412,
+						"buffer_size": 2618,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1996,
-								1996
+								1691,
+								1691
 							]
 						],
 						"settings":
@@ -221,7 +232,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 2395.0,
+						"translation.y": 1680.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,

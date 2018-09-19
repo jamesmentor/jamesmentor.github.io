@@ -2,14 +2,11 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 
 body {
-	background-image: url(images/backround.JPG);
-	background-size:  cover;
 	font-family: "Roboto";
 }
 
 nav {
 	background-color: rgb(0,0,0);
-	font-family: arial, sans-serif;
 }
 
 a {
@@ -17,8 +14,8 @@ a {
 	color: white;
 	text-decoration: none;
 	display: inline-block;
-	padding: 10px;
-	width: 200px;
+	padding: 10%;
+	width: 200%;
 }
 
 a:hover {
@@ -29,19 +26,16 @@ a:hover {
 
 h1 {
 	font-weight: bold;
-	font-size: 55px;
+	font-size: 55%;
 	font-family: Roboto, serif;
 	text-transform: underline;
 	text-align: center;
 	color: white;
 }
-#title {
-	font-family: Roboto, serif;
-}
 
 h2 {
 	font-weight: normal;
-	font-size: 24px;
+	font-size: 24%;
 	font-family: "Roboto" , sans-serif;
 	text-decoration: none;
 	text-align: center;
@@ -49,34 +43,40 @@ h2 {
 	color: white;
 }
 
+h3 {
+	text-align: center;
+	font-size: 35%;
+	line-height: 40%;
+	color: white;
+}
+
+h4 {
+	font-size: 30%;
+	text-align: center;
+	line-height: 30%;
+	color: white;
+}
+
+h5 {
+	text-align: center;
+	font-size: 29%;
+	background: black;
+	color: white;
+	border-color: black;
+	border-radius: 1em 1em;
+	padding: 1em 8em;
+	margin: 2em 5em 2em 5em;
+	clear: both;
+}
+
+#title {
+	font-family: Roboto, serif;
+}
+
 p {
-	font-family: georgia, sans-serif;
 	font-size: 1.5em;
-	line-height: 38px;
+	line-height: 38%;
 	color: rgb(30,12,255);
-}
-
-
-#wrapper {
-	background-color: white;
-	margin: 2em;
-}
-
-#content {
-	float: left;
-	background-color: red;
-	width: 75%;
-	padding: 0;
-	margin: 0;
-}
-
-aside {
-	float: right;
-	background-color: blue;
-	font-size: 14px;
-	width: 25%;
-	padding: 0;
-	margin: 0;
 }
 
 #mission {
@@ -88,9 +88,8 @@ aside {
 
 ul {
 	list-style: none;
-	margin: 0;
-	padding: 0;
-	clear: both;
+	margin: 1.5em;
+	padding: 1.5em;
 }
 
 li {
@@ -106,6 +105,25 @@ li {
 li:hover {
 	color: white;
 }
+
+
+aside {
+	float: left;
+	background-color: red;
+	width: 75%;
+	padding: 0;
+	margin: 0;
+}
+
+aside {
+	float: right;
+	background-color: rgb(25,74,74,.8)
+	font-size: 14px;
+	width: 25%;
+	padding: 0;
+	margin: 0;
+}
+
 
 p {
 	font-family: Roboto, sans-serif;
@@ -128,31 +146,7 @@ a {
 } 
 /*Update this to open up compose window with email address attached*/
 
-h3 {
-	text-align: center;
-	font-size: 35px;
-	line-height: 40px;
-	color: white;
-}
 
-h4 {
-	font-size: 30px;
-	text-align: center;
-	line-height: 30px;
-	color: white;
-}
-
-h5 {
-	text-align: center;
-	font-size: 29px;
-	background: black;
-	color: white;
-	border-color: black;
-	border-radius: 1em 1em;
-	padding: 1em 8em;
-	margin: 2em 5em 2em 5em;
-	clear: both;
-}
 footer {
 	color: black;
 	text-align: center;
@@ -162,7 +156,7 @@ footer {
 }	
 
 #packages {
-	background-color: black;
+	background-color: white;
 	color: white;
 	border-color: black;
 	border-radius: .8em .8em;
@@ -174,6 +168,12 @@ footer {
 	#wrapper {
 		float: none;
 		width: auto;
+    }
 }
 
+@media only screen and (max-width: 220px) {
+	#mission {
+		padding: 1.5em;
+	}
+}
 
